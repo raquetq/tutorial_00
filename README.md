@@ -10,7 +10,7 @@
 
 ### Configuracion de Drive USB
 
-![Configuración driveUSB](imagenesdrive1.jpg)
+![Configuración driveUSB](imagenes/drive1.jpg)
 
 ### Configuracion GNU-Make
 
